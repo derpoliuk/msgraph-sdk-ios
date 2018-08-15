@@ -17,6 +17,6 @@ NSString *const MSHeaderRespondAsync = @"respond-async";
 NSString *const MSHeaderSdkVersion = @"SdkVersion";
 
 // URLs
-NSString *const MSGraphApiEndpoint = @"https://graph.microsoft.com";
+NSString *const MSGraphApiEndpoint = @"https://outlook.office.com";
 NSString *const MSGraphApiVersion = @"v1.0";
 NSString *const MSGraphSdkVersionHeaderPrefix = @"graph-ios-";
